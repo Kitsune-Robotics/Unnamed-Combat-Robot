@@ -1,0 +1,5 @@
+# Backups 
+*.FCBak
+
+# Binaries
+*.stl
